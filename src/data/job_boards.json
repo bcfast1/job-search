@@ -1,0 +1,224 @@
+[
+  {
+    "Category": "General Job Boards",
+    "Name": "Indeed",
+    "URL": "https://www.indeed.com/",
+    "Notes": ""
+  },
+  {
+    "Category": "General Job Boards",
+    "Name": "LinkedIn",
+    "URL": "https://www.linkedin.com/jobs/",
+    "Notes": ""
+  },
+  {
+    "Category": "General Job Boards",
+    "Name": "Glassdoor",
+    "URL": "https://www.glassdoor.com/Job/index.htm",
+    "Notes": ""
+  },
+  {
+    "Category": "General Job Boards",
+    "Name": "ZipRecruiter",
+    "URL": "https://www.ziprecruiter.com/",
+    "Notes": ""
+  },
+  {
+    "Category": "General Job Boards",
+    "Name": "Google Jobs",
+    "URL": "https://www.google.com/",
+    "Notes": "Search for \"jobs near me\" or specific roles"
+  },
+  {
+    "Category": "General Job Boards",
+    "Name": "CareerBuilder",
+    "URL": "https://www.careerbuilder.com/",
+    "Notes": ""
+  },
+  {
+    "Category": "General Job Boards",
+    "Name": "Monster",
+    "URL": "https://www.monster.com/",
+    "Notes": ""
+  },
+  {
+    "Category": "Additional Resources",
+    "Name": "FlexJobs",
+    "URL": "https://www.flexjobs.com/",
+    "Notes": "Subscription-based; focuses on remote/flexible"
+  },
+  {
+    "Category": "Additional Resources",
+    "Name": "We Work Remotely",
+    "URL": "https://weworkremotely.com/",
+    "Notes": "Large remote work community"
+  },
+  {
+    "Category": "Additional Resources",
+    "Name": "Remote OK",
+    "URL": "https://remoteok.com/",
+    "Notes": "Remote jobs - strong tech focus"
+  },
+  {
+    "Category": "Additional Resources",
+    "Name": "Working Nomads",
+    "URL": "https://www.workingnomads.com/jobs",
+    "Notes": "Curated remote jobs"
+  },
+  {
+    "Category": "Additional Resources",
+    "Name": "Arc.dev",
+    "URL": "https://arc.dev/",
+    "Notes": "Remote jobs for developers"
+  },
+  {
+    "Category": "Additional Resources",
+    "Name": "Dice",
+    "URL": "https://www.dice.com/",
+    "Notes": "Tech industry focus"
+  },
+  {
+    "Category": "Additional Resources",
+    "Name": "Idealist",
+    "URL": "https://www.idealist.org/en/",
+    "Notes": "Non-profit sector jobs"
+  },
+  {
+    "Category": "Additional Resources",
+    "Name": "USAJOBS",
+    "URL": "https://www.usajobs.gov/",
+    "Notes": "Official US Federal Government jobs"
+  },
+  {
+    "Category": "Additional Resources",
+    "Name": "Wellfound (formerly AngelList Talent)",
+    "URL": "https://wellfound.com/",
+    "Notes": "Startup jobs"
+  },
+  {
+    "Category": "Additional Resources",
+    "Name": "Otta",
+    "URL": "https://app.otta.com/",
+    "Notes": "Tech jobs - emphasizes culture match"
+  },
+  {
+    "Category": "Industry-Specific Boards",
+    "Name": "Mediabistro",
+    "URL": "https://www.mediabistro.com/jobs",
+    "Notes": ""
+  },
+  {
+    "Category": "Industry-Specific Boards",
+    "Name": "Campaign Jobs",
+    "URL": "https://www.campaignlive.co.uk/jobs/",
+    "Notes": "Note: May have UK focus"
+  },
+  {
+    "Category": "Industry-Specific Boards",
+    "Name": "MarketingHire",
+    "URL": "https://marketinghire.com/",
+    "Notes": ""
+  },
+  {
+    "Category": "Industry-Specific Boards",
+    "Name": "The Creative Ham",
+    "URL": "https://thecreativeham.com/advertising-jobs/",
+    "Notes": ""
+  },
+  {
+    "Category": "Industry-Specific Boards",
+    "Name": "AMA Job Board",
+    "URL": "https://jobs.ama.org/",
+    "Notes": "American Marketing Association"
+  },
+  {
+    "Category": "Industry-Specific Boards",
+    "Name": "ilovecreatives",
+    "URL": "https://ilovecreatives.com/ads/category/Job",
+    "Notes": ""
+  },
+  {
+    "Category": "Industry-Specific Boards",
+    "Name": "Major Players",
+    "URL": "https://www.majorplayers.co.uk/jobs",
+    "Notes": "Note: May have UK focus"
+  },
+  {
+    "Category": "Industry-Specific Boards",
+    "Name": "Krop",
+    "URL": "https://www.krop.com/creative-jobs/",
+    "Notes": ""
+  },
+  {
+    "Category": "Industry-Specific Boards",
+    "Name": "TalentZoo",
+    "URL": "http://www.talentzoo.com/",
+    "Notes": ""
+  },
+  {
+    "Category": "Industry-Specific Boards",
+    "Name": "Ad Age Jobs",
+    "URL": "https://adage.com/amp/client/jobs",
+    "Notes": ""
+  },
+  {
+    "Category": "International / Regional Boards",
+    "Name": "Seek",
+    "URL": "https://www.seek.com.au/",
+    "Notes": "Australia/NZ"
+  },
+  {
+    "Category": "International / Regional Boards",
+    "Name": "Job Bank",
+    "URL": "https://www.jobbank.gc.ca/home",
+    "Notes": "Canada (Official Gov.)"
+  },
+  {
+    "Category": "International / Regional Boards",
+    "Name": "StepStone",
+    "URL": "https://www.stepstone.de/en/",
+    "Notes": "Europe/Germany"
+  },
+  {
+    "Category": "International / Regional Boards",
+    "Name": "Reed.co.uk",
+    "URL": "https://www.reed.co.uk/",
+    "Notes": "UK"
+  },
+  {
+    "Category": "International / Regional Boards",
+    "Name": "JobStreet",
+    "URL": "https://www.jobstreet.com/",
+    "Notes": "SE Asia"
+  },
+  {
+    "Category": "International / Regional Boards",
+    "Name": "Indeed (Canada)",
+    "URL": "https://ca.indeed.com/",
+    "Notes": "Canada"
+  },
+  {
+    "Category": "International / Regional Boards",
+    "Name": "Indeed (UK)",
+    "URL": "https://uk.indeed.com/",
+    "Notes": "UK"
+  },
+  {
+    "Category": "International / Regional Boards",
+    "Name": "InternationalJobs.com",
+    "URL": "https://www.internationaljobs.com/",
+    "Notes": "Global"
+  },
+  {
+    "Category": "International / Regional Boards",
+    "Name": "OverseasJobs.com",
+    "URL": "https://www.overseasjobs.com/",
+    "Notes": "Global"
+  },
+  {
+    "Category": "International / Regional Boards",
+    "Name": "GlobalJobs.org",
+    "URL": "https://www.globaljobs.org/",
+    "Notes": "Global (NGO/Development)"
+  }
+]

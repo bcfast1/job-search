@@ -1,8 +1,9 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Use colors similar to the target dashboard image */
+  --background: #030712; /* Equivalent to bg-gray-950 */
+  --foreground: #f3f4f6; /* Equivalent to text-gray-100 */
 }
 
 @theme inline {
@@ -12,15 +13,12 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  /* Let Tailwind handle fonts unless specific overrides are needed */
+}
+
+html {
+  scroll-behavior: smooth; /* Enable smooth scrolling for anchor links */
 }
